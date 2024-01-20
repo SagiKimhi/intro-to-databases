@@ -1,6 +1,6 @@
 
 ### Socials
-<a>
+<a href="https://discord.gg/pkwnnmTWY8">
 	<img 
 		height="80px" 
 		alt="Discord" 
