@@ -36,7 +36,6 @@ ideas from other people's work - so this is basically what im trying to do here.
 ### New to Git?
 If you are new to this repository or to git in general, below are a few simple steps to get you started.
 
-
 #### Copying the repository to your PC's local workspace - a.k.a. forking and cloning this repo:
 1. 	Click the fork button in the top left corner of the webpage to fork this repository. 
 	This will link the repository with your account, allowing to see it under your own repositories section, 
