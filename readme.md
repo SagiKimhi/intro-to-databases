@@ -8,7 +8,6 @@
 	/>
 </a>
 
-
 ### Description
 
 This is basically a repository for anyone studying databases, networking, and/or any other related subject
@@ -31,7 +30,6 @@ ideas from other people's work - so this is basically what im trying to do here.
     and perhaps even combine forces and initiate new projects together.
 
 -   Make grandma proud.
-<br/>
 
 ### New to Git?
 If you are new to this repository or to git in general, below are a few simple steps to get you started.
